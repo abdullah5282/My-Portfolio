@@ -8,9 +8,9 @@ const meta = {
 const introdata = {
     title: "Abdullah Moonis",
     animated: {
-        first: "I love neural networks",
-        second: "I code cool apps",
-        third: "I develop websites",
+        first: "Working on generative neural networks",
+        second: "I code interactive webapps",
+        third: "My commitment is to GitHub😉",
     },
     description: "I’m Abdullah pre-final year student, a machine learner enthusiast and an active researcher, currently persuing Integrated Masters in AI and ML",
     location : "      VIT Bhopal",
@@ -20,7 +20,7 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "A Undergraduate student in computer science and a passionate developer. Looking out for opportunities for working out with people and have great learning experiences. Love to learn new technologies.",
+    aboutme: "A Undergraduate student in computer science and a passionate developer. Looking out for opportunities to working with people and have great learning experiences. Love to learn new technologies.",
 };
 const worktimeline = [{
         jobtitle: "Attendance system with face detection",
