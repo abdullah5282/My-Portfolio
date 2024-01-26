@@ -138,7 +138,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/abdullah5282",
     instagram: "https://www.instagram.com/abdullahmoonis9/",
-    linkedin: "www.linkedin.com/in/abdullah-moonis",
+    linkedin: "https://www.linkedin.com/in/abdullah-moonis/",
     // twitter: "https://twitter.com",
 };
 export {
